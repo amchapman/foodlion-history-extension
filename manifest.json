@@ -16,7 +16,7 @@
   }],
 
   "page_action": {
-    "default_icon": "details.png",
+    "default_icon": "foodlion.png",
     "default_title": "Download Food Lion History"
   },
   "permissions" : [
